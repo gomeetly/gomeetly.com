@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gomeetly.com/static/css/main.bee02eff.css",
+    "main.css": "/gomeetly.com/static/css/main.f52880ca.css",
     "main.js": "/gomeetly.com/static/js/main.b11626e6.js",
     "static/js/787.b8c5b492.chunk.js": "/gomeetly.com/static/js/787.b8c5b492.chunk.js",
     "static/media/logo.svg": "/gomeetly.com/static/media/logo.cad5440535ab130bfaca49cd7887bcaa.svg",
     "index.html": "/gomeetly.com/index.html",
-    "main.bee02eff.css.map": "/gomeetly.com/static/css/main.bee02eff.css.map",
+    "main.f52880ca.css.map": "/gomeetly.com/static/css/main.f52880ca.css.map",
     "main.b11626e6.js.map": "/gomeetly.com/static/js/main.b11626e6.js.map",
     "787.b8c5b492.chunk.js.map": "/gomeetly.com/static/js/787.b8c5b492.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bee02eff.css",
+    "static/css/main.f52880ca.css",
     "static/js/main.b11626e6.js"
   ]
 }
